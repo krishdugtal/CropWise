@@ -1,4 +1,4 @@
-# 🌾 CropWise — AI-Powered Precision Agriculture Assistant
+# 🌾 CropWise - AI-Powered Precision Agriculture Assistant
 
 CropWise is a smart farming platform designed to empower farmers with precision agriculture tools. It utilizes an ensemble Machine Learning model (Random Forest Classifier) to classify soil types based on 10 core scientific soil features, recommends optimal crops, displays real-time market mandi prices with realistic fluctuations, and features a friendly AI agricultural consultant for chat assistance.
 
